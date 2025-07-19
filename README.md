@@ -8,7 +8,7 @@
 🔹 Skilled in **ADF**, **Databricks**, **Data Lake**, **Delta**, and **SQL-based classification logic**  
 🔹 Data Sources I work with: **SAP, Google Sheets, MySQL, FTP**
 
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/81947664-a9a1-4b6e-8b1a-265987d992f9" />
+                                                                        <img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/81947664-a9a1-4b6e-8b1a-265987d992f9" />
 
 
 ---
