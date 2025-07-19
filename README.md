@@ -1,16 +1,27 @@
 ## Hi there 👋
+# I am Vivek Sharma
 
-<!--
-**Vivek-Sharma28/Vivek-Sharma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Senior Data Engineer
 
-Here are some ideas to get you started:
+🔹 Currently working at **Glorious Insight**  
+🔹 Solving real-world data problems for clients like **Jindal Steel**  
+🔹 Skilled in **ADF**, **Databricks**, **Data Lake**, **Delta**, and **SQL-based classification logic**  
+🔹 Data Sources I work with: **SAP, Google Sheets, MySQL, FTP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Featured Projects
+- 🏗️ **JSPL Sales Pipeline** – [Coming soon]
+- 📊 **Material Classification Billing Logic** – [Coming soon]
+- 🧾 **Automated Report Generator (PySpark + ADF)** – [Coming soon]
+
+---
+
+### 📫 Let's Connect
+- 📧 vs68426@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vivek-sharma2809/)
+
+---
+
+> *Always learning. Always building. Always improving.*
+
